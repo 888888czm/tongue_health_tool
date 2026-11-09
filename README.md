@@ -50,12 +50,6 @@
 TongueScreening
 <img width="616" height="785" alt="image" src="https://github.com/user-attachments/assets/cc6853ba-9b83-4129-875a-bfc0e080dc44" />
 
-```
-tongue-screening/
-<img width="616" height="785" alt="image" src="https://github.com/user-attachments/assets/cc6853ba-9b83-4129-875a-bfc0e080dc44" />
-```
-
----
 
 ## 3. 环境要求
 
