@@ -52,26 +52,7 @@ TongueScreening
 
 ```
 tongue-screening/
-├── main.py                     # 入口（GUI / CLI / 自检）
-├── app/
-│   ├── config.py               # 常量、路径、免责声明
-│   ├── imaging.py              # 读取、ROI、舌体分割、图像质量
-│   ├── features.py             # 颜色/形态/齿痕/裂纹/瘀点等特征
-│   ├── knowledge.py            # 知识库加载 + 规则引擎
-│   ├── report.py               # TXT / HTML / JSON 报告
-│   ├── demo.py                 # 合成示例图 + 自检
-│   ├── cli.py                  # 命令行模式
-│   ├── gui.py                  # Tkinter 界面
-│   └── utils.py                # 日志、路径、ROI 解析
-├── data/knowledge_base.json    # 建议文案与规则（可直接编辑）
-├── tests/test_pipeline.py      # 19 项自动化测试
-├── TongueScreening.spec        # PyInstaller 配置（GUI + CLI 两个 exe）
-├── build_exe.bat               # Windows 一键打包
-├── build_exe.sh                # Linux/macOS 打包
-├── run.bat / run.sh            # 源码直接运行
-├── requirements.txt
-├── README.md
-└── NOTICE.md                   # 许可与专利合规说明
+<img width="616" height="785" alt="image" src="https://github.com/user-attachments/assets/cc6853ba-9b83-4129-875a-bfc0e080dc44" />
 ```
 
 ---
